@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import './global.sass';
 import App from './scenes/Landing';
 
 const root = ReactDOM.createRoot(
